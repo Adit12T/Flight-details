@@ -1,0 +1,6 @@
+Delta|Detroit|Michigan|DTW|Nashville|Tennesse|BNA|12/10/2018|310.58|10
+ABC|Detroit|Michigan|DTW|Nashville|Tennesse|BNA|12/11/2018|524.58|8
+American|Columbia|South Carolina|DTW|Newyork City|NewYork|BNA|12/21/2018|412.58|16
+DEF|Detroit|Michigan|DTW|Nashville|Tennesse|BNA|11/12/2018|210.58|24
+United|Charlotte|North Carolina|DTW|Austin|Texas|BNA|12/31/2018|360.58|32
+American|Detroit|Michigan|DTW|Nashville|Tennesse|BNA|10/21/2018|412.58|16

@@ -1,0 +1,3 @@
+Airline not allowed - ABC
+Airline not allowed - DEF
+Date is from past - 10/21/2018
