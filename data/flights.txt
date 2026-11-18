@@ -1,0 +1,9 @@
+# Airline|Origin|Origin state|Origin code|Destination|Destination state|Destination code|Date (MM/dd/yyyy)|Price|Seats
+Delta|Detroit|Michigan|DTW|Nashville|Tennessee|BNA|03/10/2027|310.58|10
+ABC|Detroit|Michigan|DTW|Nashville|Tennessee|BNA|03/11/2027|524.58|8
+American|Columbia|South Carolina|CAE|New York|New York|JFK|03/21/2027|412.58|16
+Delta|Detroit|Michigan|DTW|Nashville|Tennessee|BNA|11/12/2018|210.58|24
+United|Charlotte|North Carolina|CLT|Austin|Texas|AUS|03/31/2027|360.58|32
+Frontier|Denver|Colorado|DEN|Orlando|Florida|MCO|04/02/2027|129.00|0
+United|Chicago|Illinois|ORD|Chicago|Illinois|ORD|04/05/2027|99.00|12
+Delta|Atlanta|Georgia|ATL|Boston|Massachusetts|BOS|02/30/2027|250.00|5
